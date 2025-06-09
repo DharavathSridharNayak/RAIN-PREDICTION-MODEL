@@ -52,13 +52,10 @@ Performed feature selection and transformation
 Checked data imbalance and applied necessary techniques
 
 Machine Learning Models
-Logistic Regression
+
 
 Random Forest Classifier
 
-Decision Tree
-
-Support Vector Machine (SVM)
 
 (Optional) XGBoost or LightGBM for improved performance
 
