@@ -13,7 +13,9 @@ Given a dataset containing historical weather observations, the objective is to 
 
 Features Used:
 
-Temperature
+Minimum/ Maximum Temperature
+
+Rainfall
 
 Humidity
 
@@ -23,9 +25,7 @@ Atmospheric Pressure
 
 Cloud Cover
 
-Precipitation Level (if available)
-
-Date and Location (optional features for extended models)
+Rain Today
 
 Technologies Used:
 
@@ -51,7 +51,8 @@ Performed feature selection and transformation
 
 Checked data imbalance and applied necessary techniques
 
-Machine Learning Models
+
+Machine Learning Models:
 
 
 Random Forest Classifier
@@ -60,4 +61,6 @@ Random Forest Classifier
 (Optional) XGBoost or LightGBM for improved performance
 
 Models were evaluated using accuracy, precision, recall, F1-score, and confusion matrix.
+
+
 
