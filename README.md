@@ -7,9 +7,6 @@ Project Overview:
 
 Rain prediction is a key task in weather forecasting, and timely predictions can significantly impact agriculture, transportation, and daily planning. In this project, we explore various meteorological features such as temperature, humidity, wind speed, and atmospheric pressure to train a model that predicts whether it will rain or not.
 
-Problem Statement:
-
-Given a dataset containing historical weather observations, the objective is to build a classification model that predicts the occurrence of rain on a particular day.
 
 Features Used:
 
@@ -57,8 +54,6 @@ Machine Learning Models:
 
 Random Forest Classifier
 
-
-(Optional) XGBoost or LightGBM for improved performance
 
 Models were evaluated using accuracy, precision, recall, F1-score, and confusion matrix.
 
