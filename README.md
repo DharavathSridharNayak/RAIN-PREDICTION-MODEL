@@ -26,18 +26,6 @@ Scikit-learn – Model building and evaluation
 
 Jupyter Notebook / Google Colab – Development environment
 
-Exploratory Data Analysis (EDA):
-
-
-Handled missing values and outliers
-
-Visualized correlations between weather features
-
-Performed feature selection and transformation
-
-Checked data imbalance and applied necessary techniques
-
-
 Machine Learning Model:
 
 
