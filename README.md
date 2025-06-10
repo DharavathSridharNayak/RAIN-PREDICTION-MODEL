@@ -10,19 +10,8 @@ Rain prediction is a key task in weather forecasting, and timely predictions can
 
 Features Used:
 
-Minimum/ Maximum Temperature
+Minimum/ Maximum Temperature, Rainfall, Humidity, Atmospheric Pressure, Cloud Cover, Rain Today
 
-Rainfall
-
-Humidity
-
-Wind Speed and Direction
-
-Atmospheric Pressure
-
-Cloud Cover
-
-Rain Today
 
 Technologies Used:
 
@@ -49,7 +38,7 @@ Performed feature selection and transformation
 Checked data imbalance and applied necessary techniques
 
 
-Machine Learning Models:
+Machine Learning Model:
 
 
 Random Forest Classifier
