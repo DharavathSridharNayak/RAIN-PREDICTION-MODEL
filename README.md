@@ -36,3 +36,8 @@ Models were evaluated using accuracy, precision, recall, F1-score, and confusion
 
 
 👉 [Click here to try the RAINFALL PREDICTION APP on Hugging Face] (https://huggingface.co/spaces/DharavathSri/RAINFALL-PEDICTION-ML)
+
+📸 Screenshot 👇
+
+![{4D48CF42-F3C6-4E0B-BAE3-7D7BC174724C}](https://github.com/user-attachments/assets/dc029dec-c3cf-4165-9228-1971c0ca6b82)
+
